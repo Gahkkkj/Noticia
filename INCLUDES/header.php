@@ -13,7 +13,7 @@
 </head>
   <body class="text-light">
       <div class="container">
-          <header class="jumbotron bg-primary" style="display: inline-flex; width: 100%;">
+          <header class="jumbotron bg-dark" style="display: inline-flex; width: 100%;">
           <div class="texts">
                 <h1>Cadastro de Notícias</h1>
                 <p>Crie sua noticia notícias</p>
